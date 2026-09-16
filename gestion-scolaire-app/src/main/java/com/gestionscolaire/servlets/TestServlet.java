@@ -1,4 +1,6 @@
-package com.gestionscolaire;
+package com.gestionscolaire.servlets;
+
+import com.gestionscolaire.ConnexionBD;
 
 import java.io.IOException;
 import java.io.PrintWriter;

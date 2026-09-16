@@ -1,4 +1,4 @@
-package com.gestionscolaire;
+package com.gestionscolaire.entites;
 
 import java.time.LocalDate;
 
@@ -11,6 +11,7 @@ public class Etudiant {
     private LocalDate dateNaissance;
     private Integer classeId;
     private Integer parentId;
+
     public Etudiant() {
     }
 
