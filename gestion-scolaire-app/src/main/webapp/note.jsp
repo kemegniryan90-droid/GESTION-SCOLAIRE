@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter une note</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter une note</h1>

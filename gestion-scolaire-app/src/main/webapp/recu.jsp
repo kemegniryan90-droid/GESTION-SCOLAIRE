@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter un recu</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter un recu de paiement</h1>

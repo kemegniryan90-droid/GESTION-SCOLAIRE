@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter un personnel</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter un membre du personnel</h1>

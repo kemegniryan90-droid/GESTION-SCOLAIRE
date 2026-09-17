@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter une classe</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter une classe</h1>

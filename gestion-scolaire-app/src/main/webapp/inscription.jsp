@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Inscription Etudiant</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Inscription d'un etudiant</h1>

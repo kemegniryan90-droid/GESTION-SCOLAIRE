@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter un bulletin</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter un bulletin</h1>

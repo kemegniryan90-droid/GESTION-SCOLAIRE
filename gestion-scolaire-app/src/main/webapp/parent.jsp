@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter un parent</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter un parent</h1>

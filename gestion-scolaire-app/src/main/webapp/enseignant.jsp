@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Ajouter un enseignant</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Ajouter un enseignant</h1>
