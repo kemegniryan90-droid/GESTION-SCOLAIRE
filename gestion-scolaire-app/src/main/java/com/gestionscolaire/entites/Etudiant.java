@@ -11,6 +11,7 @@ public class Etudiant {
     private LocalDate dateNaissance;
     private Integer classeId;
     private Integer parentId;
+    private String statut;
 
     public Etudiant() {
     }
@@ -76,5 +77,13 @@ public class Etudiant {
 
     public void setParentId(Integer parentId) {
         this.parentId = parentId;
+    }
+
+    public String getStatut() {
+        return statut;
+    }
+
+    public void setStatut(String statut) {
+        this.statut = statut;
     }
 }

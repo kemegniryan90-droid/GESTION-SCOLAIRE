@@ -6,8 +6,10 @@
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/BulletinServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/ParentServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/entites/Bulletin.java
+/home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/SuiviInscriptionServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/dao/EnseignantDAO.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/entites/Classe.java
+/home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/DirecteurServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/RecuServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/entites/Recu.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/NoteServlet.java
@@ -27,3 +29,4 @@
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/dao/ClasseDAO.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/InscriptionServlet.java
 /home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/servlets/EnseignantServlet.java
+/home/nkr/Documents/GESTION-SCOLAIRE/gestion-scolaire-app/src/main/java/com/gestionscolaire/ClasseDAO.java

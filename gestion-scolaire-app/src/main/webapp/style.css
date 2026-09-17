@@ -107,3 +107,116 @@ a:hover {
 h1#result-title, .success {
     color: #27ae60;
 }
+
+/* ===== Nouveau design "Dashboard" pour index.jsp ===== */
+.dashboard-body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f4f6fb;
+  display: flex;
+  min-height: 100vh;
+}
+
+.dashboard-sidebar {
+  width: 240px;
+  background: linear-gradient(180deg, #5b3df0, #7b5cf5);
+  color: #fff;
+  padding: 20px 0;
+  flex-shrink: 0;
+}
+
+.dashboard-sidebar h2 {
+  text-align: center;
+  margin: 0 0 20px 0;
+  font-size: 20px;
+}
+
+.dashboard-sidebar a {
+  display: block;
+  color: #e6e2ff;
+  text-decoration: none;
+  padding: 12px 24px;
+  font-size: 14px;
+}
+
+.dashboard-sidebar a:hover {
+  background: rgba(255,255,255,0.15);
+  color: #fff;
+}
+
+.dashboard-section-label {
+  color: #b9adf7;
+  font-size: 12px;
+  text-transform: uppercase;
+  padding: 16px 24px 4px 24px;
+}
+
+.dashboard-main {
+  flex: 1;
+  padding: 24px 32px;
+}
+
+.dashboard-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.dashboard-topbar h1 {
+  font-size: 24px;
+  margin: 0;
+  color: #2b2b40;
+}
+
+.dashboard-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.dashboard-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+  transition: transform 0.15s ease;
+}
+
+.dashboard-card:hover {
+  transform: translateY(-3px);
+}
+
+.dashboard-card .icon-box {
+  width: 46px;
+  height: 46px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.dashboard-card .card-text strong {
+  display: block;
+  color: #2b2b40;
+  font-size: 15px;
+}
+
+.dashboard-card .card-text span {
+  color: #8a8aa0;
+  font-size: 13px;
+}
+
+.bg-purple { background: #7b5cf5; }
+.bg-green  { background: #2ecc8f; }
+.bg-yellow { background: #f4b740; }
+.bg-blue   { background: #3ea6ff; }
+.bg-pink   { background: #ff6f91; }
+.bg-teal   { background: #2ec4c4; }
